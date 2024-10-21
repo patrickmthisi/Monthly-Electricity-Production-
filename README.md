@@ -1,6 +1,6 @@
-# Monthly-Electricity-Production-
+# Monthly-Electricity-Production
 
-This notebook demonstrates an end-to-end ARIMA-based time series forecasting project for electricity production, including model fitting, rolling forecasts, and performance evaluation using RMSE. The following important time series forecasting concepts are explored this end-to-end project:
+This notebook demonstrates an end-to-end ARIMA-based time series forecasting project for electricity production, including model fitting, rolling forecasts, and performance evaluation using RMSE. The following important time series forecasting concepts are explored in this end-to-end project:
 1. ARIMA Modeling: The ARIMA model is implemented for forecasting. It involves the identification of the best ARIMA parameters (p, d, q) through an automated search using historical data.
 2. Rolling Forecast: 
     - After fitting the model, a rolling forecast method is implemented where predictions are made one step ahead, and the model is updated with the actual values iteratively.
