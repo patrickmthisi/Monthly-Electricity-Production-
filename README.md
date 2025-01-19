@@ -12,3 +12,4 @@ This notebook demonstrates an end-to-end ARIMA-based time series forecasting pro
 4. Next Steps: We also mention possible improvements such as experimenting with power transformations (e.g., BoxCox) for further performance optimization.
 
 ## Conclusion and recommendation:
+In this end-to-end project, we were able to achieve remarkable performance measured by an RMSE of 3.217, which is comparable to the majority of the work presented on Kaggle for this dataset. For reference, please see https://www.kaggle.com/datasets/shenba/time-series-datasets/code. We did not experiment with power transforms such as BoxCox; perhaps that is an extension of the work that can be implemented.
