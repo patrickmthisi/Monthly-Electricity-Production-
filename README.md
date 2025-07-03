@@ -19,7 +19,7 @@ $\textbf{Bonus}$: EDA was performed, including ADF and KPSS stationarity tests, 
 ## Conclusion and further work...
 In this comprehensive project, we achieved impressive results, with in-sample RMSE  and MAPE  values of 2.84 and 2.03%, respectively. Our out-of-sample RMSE and MAPE were 4.77 and 3.07%, respectively. These metrics are comparable to the majority of work presented on Kaggle for this dataset.
 
-!![Out-of-sample forecast]{electricity_prod_forecast_oos.png}
+!![Out-of-sample forecast](electricity_prod_forecast_oos.png)
 
 For reference, please see https://www.kaggle.com/datasets/shenba/time-series-datasets/code. We did not experiment with power transforms such as Box-Cox; perhaps that is an extension of the work that can be implemented.
-![electricity_prod_forecast_oos](https://github.com/user-attachments/assets/2394bb7e-c595-49f5-a434-9dd1835248fc)
+
