@@ -22,3 +22,4 @@ In this comprehensive project, we achieved impressive results, with in-sample RM
 !![Out-of-sample forecast]{electricity_prod_forecast_oos.png}
 
 For reference, please see https://www.kaggle.com/datasets/shenba/time-series-datasets/code. We did not experiment with power transforms such as Box-Cox; perhaps that is an extension of the work that can be implemented.
+![electricity_prod_forecast_oos](https://github.com/user-attachments/assets/2394bb7e-c595-49f5-a434-9dd1835248fc)
