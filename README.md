@@ -3,10 +3,10 @@
 - $\textbf{Contact details}$: patrickmthisi@hotmail.com
 
 ## Project objectives and description:
-This notebook demonstrates an end-to-end time series forecasting project for electricity production, including model fitting, sliding window cross-validation, and construction of a time series ensemble model based on the top five best-performing models, which include but not limited to AutoARIMA, Prophet, TBATS, reduced regression methods using random forest, LightGBM, etc.
+This notebook demonstrates an end-to-end time series forecasting project for electricity production, including model fitting, sliding window cross-validation, and construction of a time series ensemble model based on the top five best-performing models, which include but are not limited to AutoARIMA, Prophet, TBATS, reduced regression methods using random forest, LightGBM, etc.
 
 The following important time series forecasting concepts are explored in this end-to-end project:
-1. A suite of classical and ML-based time series models was implemented, and 5 best-performing pipelines were selected using sliding window cross-validation and several evaluation metrics such as MAPE, RMSE, etc.
+1. A suite of classical and ML-based time series models was implemented, and the 5 best-performing pipelines were selected using sliding window cross-validation and several evaluation metrics such as MAPE, RMSE, etc.
 2. Bayesian hyperparameter optimization was implemented to select the optimal hyperparameters for each of the 5 selected pipelines.
 3. A blended model consisting of the tuned best-performing pipelines from step (2) was developed, and an in-sample fit was displayed.
 4. Rolling Forecast:
