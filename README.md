@@ -1,4 +1,7 @@
 # Monthly-Electricity-Production
+- $\textbf{Author}$: Patrick Mthisi
+- $\textbf{Contact details}$: patrickmthisi@hotmail.com
+
 ## Project objectives and description:
 This notebook demonstrates an end-to-end time series forecasting project for electricity production, including model fitting, sliding window cross-validation, and construction of a time series ensemble model based on the top five best-performing models, which include but not limited to AutoARIMA, Prophet, TBATS, reduced regression methods using random forest, LightGBM, etc.
 
