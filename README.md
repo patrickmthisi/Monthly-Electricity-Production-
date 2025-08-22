@@ -14,7 +14,7 @@ The following important time series forecasting concepts are explored in this en
 5. Model Evaluation:
     - The forecasted values from step (4) were compared against the actual values from the out-of-sample set.
     - The final predictions and actual validation data are plotted for visualization.
-6. Next Steps: We also mention possible improvements, such as experimenting with power transformations (e.g., BoxCox, log, sqrt, etc) for further performance optimization.
+6. Next Steps: We also mention possible improvements, such as experimenting with power transformations (e.g., Box-Cox, log, sqrt, etc) for further performance optimization.
 
 
 $\textbf{Bonus}$: EDA was performed, including ADF and KPSS stationarity tests, as well as STL-based time series decomposition.
